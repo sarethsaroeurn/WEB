@@ -399,25 +399,25 @@ Vocabulary :====================================================================
 30.	Suitable
 
 
-A SWOT can help you better understand how to play to your strengths and manage your weaknesses, as well as uncover opportunities for growth and eliminate threats that could keep you from moving forward
 
-
+Question: ===================================================================================
 
 How can we improve our first impression? (4pts) *
 You can work on a first impression by
--	Practising
--	Smiling 
--	Being relaxed
--	Showing respect
+- Practising
+- Smiling 
+- Being relaxed
+- Showing respect
 
 What are the powerful techniques to think critically? (5pts) *
 Powerful techniques to think critically:
 
--	Analytical thinking
--	Communication
--	Creativity
--	Open-mindedness 
--	Problem-solving
+- Analytical thinking
+- Communication
+- Creativity
+- Open-mindedness 
+- Problem-solving
+
 What is SWOT? Please explain each one briefly. (4pts) *
 A SWOT can help you better understand how to play to your strengths and manage your weaknesses, as well as uncover opportunities for growth and eliminate threats that could keep you from moving forward
 -strength
@@ -434,93 +434,91 @@ The thing that can  makes a great sale person
 - Product knowledge
 - Humor
 - Common sense
-Page 6 of 6
-Never submit passwords through Google Forms.
-This form was created inside of Passerelles numériques. Report Abuse
-Google Forms
 
+IV. True/ False: ==============================================================================================
 
-
-
-Final-Exam, PL MD3, 2021
-saolee.leng@student.passerellesnumeriques.org Switch account
- 
-Your email will be recorded when you submit this form
-* Required
-IV. True/ False
-Choose True OR False 
 We always have more time to showcase our first impression, if at first we failed. *
 False
-True
+True ↩
+
 To apply critical reading, we should apply the SQ4R method. *
-True
+True ↩
 False
+
 Attitude is as important as first impression for a selling skill. *
-True
+True ↩
 False
+
 Each member of the project needs to be responsible for his or her task only. *
 True
-False
+False ↩
+
 In the project concept, focus on what you can offer rather that what the customer needs. *
-True
+True ↩
 False
+
 Selling doesn’t always involve a sale person. *
 False
 True
+
 There are 3 general types of cover letter: the prospecting letter, the networking letter and the application letter. *
 True
 False
+
 To make our project wonderful, we should continue doing it as long as possible without a single break. *
 False
 True
+
 Taking the time to listen to the customer helps you move ahead of your competitors. *
 True
 False
+
 Price always comes first in any sort of selling. *
 False
 True
+
 Trust is easy to build but hard to break. *
 True
 False
+
 Selling is helping others to decide. *
 True
 False
+
 Critical thinking is no different from criticism. *
 True
 False
+
 To keep track on our tasks, we need to set them on a task management tool like Trello. *
 True
 False
+
 A sale person should talk twice as much as she listens to a customer. *
 True
 False
+
 The value of the communication is what keeps the customer comes back. *
 True
 False
+
 Criticism is directed towards the argument not a person. *
 True
 False
+
 Decision making is one of the most important skills for a problem solver. *
 False
 True
+
 We can promise or sell anything we can’t deliver. *
 False
 True
+
 SWOT stands for Strengths, Weaknesses, Opportunity and Trust. *
 False
 True
-Page 5 of 6
-Never submit passwords through Google Forms.
-This form was created inside of Passerelles numériques. Report Abuse
-Google Forms
 
+III. Multiple Choice Question: ==========================================================================================
 
-
-Final-Exam, PL MD3, 2021
-saolee.leng@student.passerellesnumeriques.org Switch account
- 
-Your email will be recorded when you submit this form
-* Required
 III. Multiple Choice Question
 Choose the correct answer 
 There are ______ powerful techniques to think critically. *
@@ -916,6 +914,8 @@ Thinking
 Analytical thinking
 Creativity
  
+Question: ===============================================================================
+
 How can we improve our first impression? (4pts) *
 You can work on a first impression by
 -	Practising
