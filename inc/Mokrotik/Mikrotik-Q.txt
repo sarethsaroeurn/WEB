@@ -1,0 +1,287 @@
+Quiz Chapter One===============================================
+
+What should you do after upgrade your route?
+- check log to make sure no any error
+
+Provide the correct information about "RB951G-2HnD" *
+Yes	No	Score
+
+Has USB port			NO
+Support 2.4 GHz			YES
+Have 5 Gigabit Ethernet ports	YES		
+Have more RAM			YES
+Support Dual Chain antenna	YES		
+Have 5 Ethernet Ports		NO	
+Has 1 wireless adapter		YES	
+Support power injector (POE)	NO		
+Support 802.11ac wireless	NO	
+More powerful CPU		YES			
+ 
+What is the default IP address range in MikroTik router? *
+
+192.168.88.0/24
+
+Which extension when you use script to backup configuration? *
+
+*.rsc
+ 
+Integrated solutions mean:
+
+For ready to use
+ 
+Which protocol use to Ping and Trace Route?
+
+ICMP
+
+What level of license 1 mean? *
+
+Free Demo
+ 
+From which of the following locations can you obtain Winbox? *
+
+Router webpage
+ 
+Mikrotik RouterOS DHCP client can receive the following options: *
+
+IP address , Subnet and Gateway
+
+Which option that allow administrator can connect to MikroTik Routerboard with both way IP and Mac-address? *
+
+Winbox
+
+Match the keywords with category *
+
+OpenVPN:	Tunnel
+OSPF:		Routing
+Watchdog:	Real-time tools
+PPPoE:		Tunnel
+Hotspot:	User management	
+DHCP:		User management
+Ping:		Real-time tools
+BGP:		Routing
+Touch:		Real-time tools
+Radius:		User management
+	 
+Type the command that you can " list content" *
+
+print
+Print
+ 
+For static routing functionality, additionally to the RouterOS system package, you will also need the following software package: *
+
+None
+ 
+Which tool use to remote by port 8291? *
+
+Winbox
+ 
+Where you can set port to access winbox?
+
+IP > service
+
+Using script to export all configuration *
+
+export file=backup
+
+Quiz Chapter 2========================================================
+
+Which is the default port of IP-Winbox? *
+
+TCP 8291
+ 
+ 
+No way bridge between Ethernet interface with Wireless interface together. *
+
+False
+ 
+It is impossible to delete admin user on user table MikroTik. *
+
+False
+ 
+ 
+What protocol is used for Ping and Trace Route? *
+
+ICMP
+ 
+STP protocol is enable by default when create the bridge interface. *
+
+False
+ 
+In case when router login password is lost, it is necessary to reinstall RouterOS or use hardware reset function. *
+
+True
+ 
+ 
+An IP address pool can contain address from more than one subnet. *
+
+True
+ 
+List the reasons when you have to create Bridge interface. *
+
+- Bridge basically used in bus topology and it divide a LAN into two segments. 
+- Bridge  stores mac address of PCs available in a computer network.
+ 
+Bridge process working on the network layer to forward frame between virtual interfaces *
+
+False
+ 
+What is Bridge ? *
+
+Bridge is a networking device working under data link layer of OSI Model. It is use to reduce traffic in to a network.
+
+Quiz Chapter 3 & 4========================================================
+
+The network address is *
+
+The first address of the subnet
+ 
+For static routing functionality, additionally to the RouterOS 'system' package, you will alsoneed the following software package: *
+
+no extra package required
+ 
+Dynamic routing: Administrator configure route path (best path) in routing table by manually (Static route). *
+
+False
+
+.........?process to forward the packets from one network to another network using internetwork device (Router, Firewall, Switch layer3...). *
+
+Routing
+ 
+There are three default privilege group in MikroTik: *
+
+Full, read and write
+ 
+ 
+What is term for the hardware coded address found on an interface? *
+
+MAC Address
+
+Router has Wireless and Ethernet client interfaces, all client interfaces are bridged.To create a DHCP service for all clients you must configure DHCP server on. *
+
+only on bridge interface
+ 
+How many collision domains are created when you segment a network with a 12-port switch? *
+
+12
+
+While troubleshooting a network from inside the network, you discover that you can ping the gateway reliably, but you cannot browse the Internet. Skype, however, works flawlessly. What is the most likely issue? *
+
+DNS is not available
+ 
+What does the passive command provide to dynamic routing protocols? *
+
+Stops an interface from sending periodic dynamic updates but not from receiving updates.
+ 
+Which one is the option that DHCP client can receive? *
+
+IP Gateway
+
+ 
+Which is correct masquerade rule for 192.168.0.0/24 network on the router with outgoing interface=ether1 *
+
+/ip firewall nat add action=masquerade chain=srcnat
+ 
+What protocol is used to find the hardware address of a local device? *
+
+ARP
+
+Quiz Chapter 5=================================================
+
+What is standard of WiFi technology? *
+
+802.11
+ 
+ 
+If you want allow only stations devices in access-list, which option that you have to do. *
+
+Uncheck on "Default Authentication" on wireless interface
+ 
+Which one is the technology that used multiple antennas use for send and receive the data at the same time? *
+
+MIMO
+ 
+Which place that you can filter on AP connection to your station? *
+
+Connection list
+ 
+Which sentence is not correct about "channel width"? *
+
+You can't use combination of channel width in one RouterOS
+ 
+Which mode in Router OS wireless mode that can't be bridge? *
+
+station
+ 
+Choose 3 channels of 2.4 GHz band that not inference with each other. *
+
+Ch11
+Ch6
+Ch1
+ 
+ 
+Which band wireless is support long range distance? *
+
+900 Mhz
+ 
+Which one is authentication type? *
+
+WPA
+ 
+One wireless router can has only one BAND *
+
+False
+ 
+which one is not correct about wireless connection? *
+
+Need to be same frequency of channel
+
+Quiz Chapter 6=============================================
+
+Where are HotSpot authorized clients shown? *
+
+/ip hotspot active
+ 
+You can create only one hotspot and apply only one interface. *
+
+False
+
+How can you allow many users use the same username for authentication hotspot? *
+
+Using user profile
+ 
+Which one is not benefit of hotspot? *
+
+Provide cache server for faster access
+ 
+If you need to make sure that one computer in your Hotspot network can access the internet without Hotspot authentication, which menu allows you to do this? *
+
+IP bindings
+ 
+Does MikroTik Hotspot can manage bandwidth user? *
+
+Yes
+ 
+Which one is not action in the setup Hotspot steps? *
+
+choose specific domain for bypass
+ 
+If you can not find hotspot option in MikroTik menu, that mean: *
+
+You don't have hotspot package or disable
+ 
+What menus should be used to allow certain websites to be accessed from behind a hotspot interface, without client authentication *
+
+/ip hotspot walled-garden
+ 
+ 
+You want to share the same user and password for different computers. Which menu is used for configuration? *
+
+/ip hotspot user profile
+ 
+Hotspot ip-binding is used to allow access to Internet web servers specifing the IP address of the web server instead of the URL.
+
+False
+ 
+Configuring HotSpot is possible on MikroTik RouterOS only with a wireless interface. *
+
+False
